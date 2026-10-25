@@ -5,7 +5,30 @@
 
 Студент 3 курса. 
 Пишу чистый, поддерживаемый код, люблю разбираться в том, как всё устроено под капотом.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=stl2802&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+---
+
+### 🛠 Мой стек технологий
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,git,docker,linux,pytest&theme=dark&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📊 Моя активность
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stl2802&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stl2802&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stl2802&theme=react-dark&hide_border=true&custom_title=Моя%20активность%20на%20GitHub" alt="Activity Graph" />
+</p>
 ---
 
 ### 🛠 Мой стек технологий
