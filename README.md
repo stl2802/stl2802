@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stl2802&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stl2802&layout=compact&theme=radical)
 <!--
 **stl2802/stl2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
